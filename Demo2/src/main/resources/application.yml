@@ -8,13 +8,13 @@ spring:
 ---
 
 spring:
-  profile: dev
+  profiles: dev
 name1: 1234
 
 ---
 
 spring:
-  profile: hello
+  profiles: hello
 name1: bbbb
 
 ---
